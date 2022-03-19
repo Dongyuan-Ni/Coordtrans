@@ -9,4 +9,4 @@ x2b.py is change x, y, z to b1, b2, b3.
 
 For example (oC32):
 
-![1](http://latex.codecogs.com/svg.latex?\left(\begin{matrix}1&0&0\\\\0&1&0\\\\0&0&1\end{matrix}\right)\left(\begin{matrix}x\\\\y\\\\z\end{matrix}\right)=\left(\vec{e}_a,\vec{e}_b,...,\vec{e}_{sn}\right)\left(\begin{matrix}x_1'\\\\x_2'\\\\.\\\\.\\\\x_n'\end{matrix}\right))
+![1](http://latex.codecogs.com/svg.latex?\left(\begin{matrix}1&0&0\\\\0&1&0\\\\0&0&1\end{matrix}\right)\left(\begin{matrix}x\\\\y\\\\z\end{matrix}\right)=\left(\begin{matrix}1&0&0\\\\0&1&0\\\\0&0&1\end{matrix}\right)\left(\begin{matrix}x_1'\\\\x_2'\\\\.\\\\.\\\\x_n'\end{matrix}\right))
