@@ -13,7 +13,7 @@ For example (oC32):
 
 Process:
 
-1. run genkpts.py
+1. run genkpts_xyz.py
 2. run x2b.py
 3. run vasp
 4. run b2x.py
