@@ -1,10 +1,6 @@
 # Coordtrans
 Coordinate transformation from b to x, and vice versa.
 
-b2x.py is change b_1, b_2, b_3 to x, y, z.
-
-x2b.py is change x, y, z to b_1, b_2, b_3, for example: Z is (0, 0, 1) in x, y, z form, now transform Z to a coordinate that can be calculated in vasp.
-
 Input files: kpts.dat or kpts_xyz.dat
 
 Theory:
