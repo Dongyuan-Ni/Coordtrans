@@ -6,3 +6,7 @@ b2x.py is change b1, b2, b3 to x, y, z.
 x2b.py is change x, y, z to b1, b2, b3.
 
 ![1](http://latex.codecogs.com/svg.latex?\vec{X}=\left(\vec{e}_1,\vec{e}_2,...,\vec{e}_n\right)\left(\begin{matrix}x_1\\\\x_2\\\\.\\\\.\\\\x_n\end{matrix}\right)=\left(\vec{e}_a,\vec{e}_b,...,\vec{e}_{sn}\right)\left(\begin{matrix}x_1'\\\\x_2'\\\\.\\\\.\\\\x_n'\end{matrix}\right))
+
+For example (oC32):
+
+![1](http://latex.codecogs.com/svg.latex?\left(\begin{matrix}\vec{e}_1,&\vec{e}_2,&...,&\vec{e}_n\end{matrix}\right)\left(\begin{matrix}x_1\\\\x_2\\\\.\\\\.\\\\x_n\end{matrix}\right)=\left(\vec{e}_a,\vec{e}_b,...,\vec{e}_{sn}\right)\left(\begin{matrix}x_1'\\\\x_2'\\\\.\\\\.\\\\x_n'\end{matrix}\right))
