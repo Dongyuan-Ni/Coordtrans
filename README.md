@@ -5,4 +5,4 @@ b2x.py is change b1, b2, b3 to x, y, z.
 
 x2b.py is change x, y, z to b1, b2, b3.
 
-![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)dx)
+![1](http://latex.codecogs.com/svg.latex?\vec{X}=(\vec{e}_1,\vec{e}_2,...,\vec{e}_n))
