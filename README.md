@@ -1,5 +1,5 @@
 # Coordtrans
-Coordinate transformation from the lattice vector basis of reciprocal space with respect to (b_1, b_2, b_3) to the orthogonal basis of reciprocal space with respect to (Brillouin zone basis), and vice versa.
+Coordinate transformation from b to x, and vice versa.
 
 b2x.py is change b_1, b_2, b_3 to x, y, z.
 
@@ -15,4 +15,6 @@ For example (oC32):
 
 ![1](http://latex.codecogs.com/svg.latex?\left(\begin{matrix}1&0&0\\\\0&1&0\\\\0&0&1\end{matrix}\right)\left(\begin{matrix}x\\\\y\\\\z\end{matrix}\right)=\left(\begin{matrix}1&0&0\\\\0&1&0\\\\0&0&1\end{matrix}\right)\left(\begin{matrix}-0.2808&0.4336&0.5\\\\0.2808&-0.4336&0.5\\\\0.2808&0.4336&-0.5\end{matrix}\right)\left(\begin{matrix}a_1\\\\a_2\\\\a_3\end{matrix}\right))
 
-(x, y, z) is the orthogonal basis of reciprocal space with respect to (b_1, b_2, b_3); (a_1, a_2, a_3) is the lattice vector basis of reciprocal space with respect to (Brillouin zone basis).
+(e_1, e_2, e_3) is (b_1, b_2, b_3).
+
+(e_a, e_b, e_c) is (Brillouin zone basis).
